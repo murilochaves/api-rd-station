@@ -1,5 +1,5 @@
 import json  # estrutura de dados
-import Modulos.RDStation.Erros as excessoes  # erros
+import RDStation.Erros as excessoes  # erros
 import pandas as pd  # estrutura de dados
 import requests  # requisições http
 import time  # tempo de delay
