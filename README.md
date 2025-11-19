@@ -1,8 +1,3 @@
-<p align="center">
-	<a href="" rel="noopener">
-	<img src="https://i.postimg.cc/YCKWfB1f/rdstation.png" alt="Project logo"></a>
-</p>
-
 <h3 align="center">
 	🚀 Facilitando a Integração com a API do RD Station CRM
 </h3>
